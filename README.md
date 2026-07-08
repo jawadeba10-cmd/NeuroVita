@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo.png" alt="NeuroVita Logo" width="220">
+  <img src="assets/icons/logo.png" alt="NeuroVita Logo" width="220">
 </p>
 
 <h1 align="center">🧠 NeuroVita</h1>
