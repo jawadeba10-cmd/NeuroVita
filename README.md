@@ -32,6 +32,7 @@ The project combines modern web technologies with evidence-based wellness concep
 - 🎨 Clean user interface
 - ❤️ Healthcare-focused branding
 - 🌐 Easy navigation
+- AI-powered Recommendations
 
 ---
 
@@ -40,7 +41,6 @@ The project combines modern web technologies with evidence-based wellness concep
 - Personalized Wellness Score
 - Lifestyle Assessment
 - Cognitive Risk Insights
-- AI-powered Recommendations
 - Sleep Tracking
 - Nutrition Analysis
 - Exercise Recommendations
